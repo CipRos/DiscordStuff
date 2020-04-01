@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WebTools
 // @namespace    DS
-// @version      2
+// @version      2.1
 // @description  try to take over the world!
 // @author       CipX
 // @match        *://*/*
